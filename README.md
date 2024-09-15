@@ -10,12 +10,11 @@ Get your soldering iron ready, it is gettting hot!
   
   <details>
   <summary>Circuit Diagram</summary>
-    
-  ![Dual-chaf](https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/SC_2-channel-12V-controller_400pxwide.png "Circuit Diagram 2-Channel 12V Controller")
+  <a href=src/images/SC_2-channel-12V-controller.png><img src=src/images/SC_2-channel-12V-controller_400pxwide.png alt="click to enlarge"></a>
     
 </details>
 </details>
 
 ---
 
-<a href=src/images/SC_2-channel-12V-controller.png><img src=src/images/SC_2-channel-12V-controller_400pxwide.png alt="alternativer_text"></a>
+
