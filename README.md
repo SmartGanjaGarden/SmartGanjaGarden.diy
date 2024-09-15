@@ -6,7 +6,7 @@ Get your soldering iron ready, it is gettting hot!
   <summary>Phoscon Conbee II Universal Zigbee Gateway</summary>
   
   ### 2-Channel 12V Controller
-  ![R2-channel-12V-controller](https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/2-channel-12V-controller_400pxwide.png "Phoscon Conbee II Universal Zigbee Gateway")
+  ![2-channel-12V-controller](https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/IM_2-channel-12V-controller.png "Phoscon Conbee II Universal Zigbee Gateway")
   
   <details>
   <summary>Documentation</summary>
