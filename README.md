@@ -18,4 +18,4 @@ Get your soldering iron ready, it is gettting hot!
 
 ---
 
-<a href=“[src/images/SC_2-channel-12V-controller.png](https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/SC_2-channel-12V-controller.png)“><img src=“[/src/images/SC_2-channel-12V-controller_400pxwide.png](https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/SC_2-channel-12V-controller_400pxwide.png)“ alt="alternativer_text"></a>
+<a href=“https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/SC_2-channel-12V-controller.png“><img src=“https://github.com/SmartGanjaGarden/SmartGanjaGarden.diy/blob/main/src/images/SC_2-channel-12V-controller_400pxwide.png“ alt="alternativer_text"></a>
