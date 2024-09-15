@@ -18,4 +18,4 @@ Get your soldering iron ready, it is gettting hot!
 
 ---
 
-<a href=“blob/main/src/images/SC_2-channel-12V-controller.png“><img src=“blob/main/src/images/SC_2-channel-12V-controller_400pxwide.png“ alt="alternativer_text"></a>
+<a href=“/src/images/SC_2-channel-12V-controller.png“><img src=“/src/images/SC_2-channel-12V-controller_400pxwide.png“ alt="alternativer_text"></a>
