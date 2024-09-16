@@ -3,8 +3,8 @@ Get your soldering iron ready, it is gettting hot!
 ---
 
 <details open>
-  <summary>Dual Channel Controller for 12V</summary>
-  Controls two 12V output channels. <br>Integration via<br> <a href=https://github.com/arendst/tasmota><img src=src/images/tasmota.png></a><br>
+  <summary>Dual Channel Controller for 12V</summary><br>
+  Controls two 12V output channels. <br>Integration via <a href=https://github.com/arendst/tasmota> tasmota</a><br>
   <br><br>
   Photo:<br>
   
